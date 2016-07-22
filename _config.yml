@@ -1,0 +1,27 @@
+menu:
+  文章: /archives
+  #项目作品: /projects
+  关于我: /aboutme
+#rss: /atom.xml
+description: python web
+social:
+  weibo: 
+  github: https://github.com/zhengdou
+  #stack_overflow: 
+  #facebook: http://www.facebook.com/yang.desheng.me
+  #twitter: https://twitter.com/lenbo_
+  #google_plus: https://www.google.com/+LenboMa
+
+page_comment: false
+logo: /images/a.png
+background:
+  cover: /images/background-cover.jpg
+  color: cover-blue
+
+archive_date_format: MMM DD
+fancybox: true
+
+duoshuo_shortname: 
+
+#google_analytics: UA-42596364-1
+favicon: /images/logo.con
